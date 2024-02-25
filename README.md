@@ -40,7 +40,7 @@ Luego de clonar el repositorio, debe instalar la aplicacion mediante "npm instal
 # Deploy
 
 Puede ejecutar el proyecto desde el siguiente link:
-[https://joakozuin.github.io//](https://joakozuin.github.io//)
+[https://people-start-wars.vercel.app/](https://people-start-wars.vercel.app/)
 
 #
 
