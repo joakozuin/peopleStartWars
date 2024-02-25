@@ -1,0 +1,75 @@
+body{
+  background-color: rgb(238, 237, 154);
+}
+/* Estilo de Menu */
+.cajaMenus{
+  border:5px solid rgba(42, 48, 47, 0.612);
+  background-color: black;
+}
+.TituloNombre{
+  color:  #FFE81F;
+  font-size: 50px;
+  
+}
+.TituloNombre:hover{
+  color: #fff; ;
+}
+
+/* Estilo de navegacion */
+.BotonLink{
+  color:  #FFE81F;
+  font-size: 20px;
+  box-shadow: 13px 12px 10px 0px  #c0b591;
+  background-color: rgb(75, 74, 74);
+  width: 350px;
+  justify-content: space-around
+}
+
+
+/* Estilo en la tarjeta Personaje */
+.TitleName{
+  text-align: center;
+  color: rgb(0, 0, 14);
+  font-size: 18px;
+  font-weight: bold;
+  }
+
+
+.Title{
+font-size: 13px;
+
+}
+.texto{
+  color:  #FFE81F;
+}
+
+.BordeCart{
+  /*width: 18rem;*/
+  background-color: azure;
+  margin-left: 15px;
+  margin-top: 15px;
+  width: 260px;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 13px 12px 10px 0px  #ffe91f88;
+  border:3px solid rgba(8, 8, 0, 0.612); 
+
+}
+.ListGroup{
+  width: 200px;
+  
+}
+.list-group-item{
+  padding: 0px;
+  padding-top: 5px;
+}
+
+/* Estilo de modal */
+.containerInput{
+  /* width: 500px; */
+  width: 100%;
+  align-items: end;
+  right: 0;
+  display: flex;
+  padding-bottom: 20px;
+}
+
